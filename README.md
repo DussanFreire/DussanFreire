@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer 
 --------------------
 
-As a systems engineer and software developer, I have extensive knowledge in software development, SCRUM, SOLID principles, artificial intelligence, and information systems. I have created innovative software projects and web applications that meet the specific needs of companies in Bolivia. My dedication and strong work ethic have helped me stand out and become an essential member of successful teams. Additionally, I am pursuing a master's degree in computer science at the Bolivian Catholic University San Pablo in agreement with the Pontifical Catholic University of Chile. This program allows me to deepen my expertise in cutting-edge technologies and expand my understanding of the ever-changing world of software development. 
+I am a Systems Engineer and Front-End Developer with 4 years of experience in software development. I specialize in React and Redux to build dynamic, user-friendly web interfaces. I have worked on various software projects and web applications for companies.
+
+I recently completed my Master’s degree in Computer Science from the Bolivian Catholic University San Pablo. This degree has improved my skills in both practical and theoretical aspects of technology.
+
+In addition to my technical skills, I am known for my strong communication, teamwork, and problem-solving abilities. I am easy to work with, always open to feedback, and committed to helping my team succeed.
+
+I am always eager to learn and grow in the ever-evolving tech industry.
 
 * 🌍  I'm based in Cochabamba, Bolivia 
 * ✉️  You can contact me at [dussanfreire@gmail.com](mailto:dussanfreire@gmail.com) 
