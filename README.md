@@ -43,6 +43,7 @@ I am always eager to learn and grow in the ever-evolving tech industry.
   <a href="https://www.github.com/DussanFreire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/dussan-freire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <a href="https://orcid.org/0009-0009-6695-4871" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" width="32" height="32" /></a>
+    <a href="https://leetcode.com/u/DussanFreire/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/250px-LeetCode_Logo_black_with_text.svg.png" width="125" height="32" /></a>
  </p>
 
 ### Badges
