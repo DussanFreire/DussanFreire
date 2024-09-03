@@ -13,7 +13,8 @@ In addition to my technical skills, I am known for my strong communication, team
 I am always eager to learn and grow in the ever-evolving tech industry.
 
 * 🌍  I'm based in Cochabamba, Bolivia 
-* ✉️  You can contact me at [dussanfreire@gmail.com](mailto:dussanfreire@gmail.com) 
+* ✉️  You can contact me at [dussanfreire@gmail.com](mailto:dussanfreire@gmail.com)
+* 🚀 My [portfolio](https://portafolio-dussanfreire.vercel.app/)
 * 🧠  I'm learning new technologies
 
 ### Skills  
