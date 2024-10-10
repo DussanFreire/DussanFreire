@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Dussan Freire
-=====================================================================================================================================  
+# Hi, my name is Dussan Freire ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! 
 
-Full-stack developer 
---------------------
+## About me 😃
 
-I am a Systems Engineer and Front-End Developer with 4 years of experience in software development. I specialize in React and Redux to build dynamic, user-friendly web interfaces. I have worked on various software projects and web applications for companies.
+### M.Sc. in Computer Science | Front-end Developer
 
-I recently completed my Master’s degree in Computer Science from the Bolivian Catholic University San Pablo. This degree has improved my skills in both practical and theoretical aspects of technology.
 
-In addition to my technical skills, I am known for my strong communication, teamwork, and problem-solving abilities. I am easy to work with, always open to feedback, and committed to helping my team succeed.
+I am a Bachelor of Systems Engineering and a Master’s degree holder in Computer Science, both from the Bolivian Catholic University San Pablo. I am currently working as a software developer, focusing on using React to create dynamic and user-friendly web interfaces. I have worked on various software projects and web applications for different companies.
+
+In addition to my technical expertise, I am known for my strong communication, teamwork, and problem-solving abilities. I am easy to work with, open to feedback, and dedicated to helping my team succeed.
 
 I am always eager to learn and grow in the ever-evolving tech industry.
 
@@ -17,7 +16,7 @@ I am always eager to learn and grow in the ever-evolving tech industry.
 * 🚀 My [portfolio](https://portafolio-dussanfreire.vercel.app/)
 * 🧠  I'm learning new technologies
 
-### Skills  
+## Skills  ✅
 
 <p align="left">
  <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="36" height="36" alt="React" /></a> 
@@ -39,7 +38,7 @@ I am always eager to learn and grow in the ever-evolving tech industry.
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> 
 </p> 
 
- ### Socials  
+ ## Socials  
  <p align="left"> 
   <a href="https://www.github.com/DussanFreire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/dussan-freire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -47,7 +46,7 @@ I am always eager to learn and grow in the ever-evolving tech industry.
     <a href="https://leetcode.com/u/DussanFreire/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/250px-LeetCode_Logo_black_with_text.svg.png" width="125" height="32" /></a>
  </p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
