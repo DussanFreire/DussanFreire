@@ -1,5 +1,5 @@
 # Hi, I am Dussan Freire ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! 
-
+M.Sc. in Computer Science | Front-end Developer
 <div>
  <a href="https://www.linkedin.com/in/dussan-freire">
    <img align="left" alt="Dussan Freire LinkedIn" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -16,19 +16,11 @@
 
 ## About me 😃
 
-### M.Sc. in Computer Science | Front-end Developer
-
-
 I am a Bachelor of Systems Engineering and a Master’s degree holder in Computer Science, both from the Bolivian Catholic University San Pablo. I am currently working as a software developer, focusing on using React to create dynamic and user-friendly web interfaces. I have worked on various software projects and web applications for different companies.
 
 In addition to my technical expertise, I am known for my strong communication, teamwork, and problem-solving abilities. I am easy to work with, open to feedback, and dedicated to helping my team succeed.
 
-I am always eager to learn and grow in the ever-evolving tech industry.
-
-* 🌍  I'm based in Cochabamba, Bolivia 
-* ✉️  You can contact me at [dussanfreire@gmail.com](mailto:dussanfreire@gmail.com)
-* 🚀 My [portfolio](https://portafolio-dussanfreire.vercel.app/)
-* 🧠  I'm learning new technologies
+I am always eager to learn and grow in the ever-evolving tech industry. Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃 
 
 ## Skills  ✅
 
@@ -56,15 +48,11 @@ I am always eager to learn and grow in the ever-evolving tech industry.
 </p> 
 
 
-
-
-
 ## My GitHub Stats 📊
 
 
 <a href="http://www.github.com/DussanFreire"><img src="https://github-readme-stats.vercel.app/api?username=DussanFreire&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DussanFreire's GitHub stats" /></a>
 <a href="http://www.github.com/DussanFreire"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DussanFreire&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/DussanFreire"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DussanFreire&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/DussanFreire" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DussanFreire&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
