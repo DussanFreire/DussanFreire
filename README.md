@@ -33,6 +33,8 @@ I am always eager to learn and grow in the ever-evolving tech industry. Check my
 ### Skills  ✅
 
 <p align="left">
+  <a href="https://nextjs.org/docs/messages/next-image-unconfigured-host" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width="36" height="36" alt="Nextjs" /></a> 
+     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="auto" height="36" alt="tailwind css" /></a> 
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="36" height="36" alt="React" /></a> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> 
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> 
