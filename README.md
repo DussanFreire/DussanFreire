@@ -1,19 +1,20 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/73646620?v=4" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" />
+<img src="https://github.com/user-attachments/assets/683f453d-e849-4502-b3dc-379558848bdd" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" />
    <h3 align="center">Hi, I am Dussan Freire 👋! 👨🏻‍💻</h3>
    <p align="center">M.Sc. in Computer Science | Front-end Developer</p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/dussan-freire">
-    <img align="center" alt="Dussan Freire LinkedIn" width="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-  </a>
-  <a href="https://orcid.org/0009-0009-6695-4871">
-    <img align="center" alt="Dussan Freire Orcid" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" />
-  </a>
-  <a href="https://leetcode.com/u/DussanFreire/">
-    <img align="center" alt="Dussan Freire LeetCode" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/250px-LeetCode_Logo_black_with_text.svg.png" />
-  </a>
+   <div align="center">
+     <a href="https://www.linkedin.com/in/dussan-freire">
+       <img align="center" alt="Dussan Freire LinkedIn" width="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+     </a>
+     <a href="https://orcid.org/0009-0009-6695-4871">
+       <img align="center" alt="Dussan Freire Orcid" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" />
+     </a>
+     <a href="https://leetcode.com/u/DussanFreire/">
+       <img align="center" alt="Dussan Freire LeetCode" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/250px-LeetCode_Logo_black_with_text.svg.png" />
+     </a>
+   </div>
 </div>
-</div>
+
 
 
 
