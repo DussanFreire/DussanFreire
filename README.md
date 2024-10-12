@@ -21,7 +21,7 @@
 
 I am a Bachelor of Systems Engineering and a Master’s degree holder in Computer Science, both from the Bolivian Catholic University San Pablo. I am currently working as a software developer, focusing on using React to create dynamic and user-friendly web interfaces. I have worked on various software projects and web applications for different companies.
 
-In addition to my technical expertise, I am known for my strong communication, teamwork, and problem-solving abilities. I am easy to work with, open to feedback, and dedicated to helping my team succeed.
+I am good at communicating, working in a team, and solving problems. I am easy to work with, open to feedback, and focused on helping my team succeed.
 
 I am always eager to learn and grow in the ever-evolving tech industry. Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃 
 
