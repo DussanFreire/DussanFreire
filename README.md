@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/683f453d-e849-4502-b3dc-379558848bdd" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" />
+<img src="https://github.com/user-attachments/assets/a3bee557-0d5f-4010-a036-aaac5048a349" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" />
    <h3 align="center">Hi, I am Dussan Freire 👋! 👨🏻‍💻</h3>
    <p align="center">M.Sc. in Computer Science | Front-end Developer</p>
    <div align="center">
@@ -14,11 +14,6 @@
      </a>
    </div>
 </div>
-
-
-
-
-
 
 <br/>
 
