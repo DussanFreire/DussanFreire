@@ -11,7 +11,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dussan-freire/)
   [![Ordic](https://img.shields.io/badge/-Orcid-green?style=flat-square&logo=Orcid&logoColor=white)](https://orcid.org/0009-0009-6695-4871)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://orcid.org/0009-0009-6695-4871)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/DussanFreire/)
   ![](https://komarev.com/ghpvc/?username=DussanFreire&color=blueviolet)
 
 </div>
