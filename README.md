@@ -1,15 +1,18 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a3bee557-0d5f-4010-a036-aaac5048a349" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" />
-   <h3 align="center">Hi, I am Dussan Freire 👋! 👨🏻‍💻</h3>
+   <img src="https://github.com/user-attachments/assets/a3bee557-0d5f-4010-a036-aaac5048a349" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" />
+   <h3 align="center">Hi, I am Dussan Freire! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20" alt="HTML5"/></h3>
    <p align="center">M.Sc. in Computer Science | Systems Engineer | Full Stack Developer</p>
 </div>
+
+
+
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dussan-freire/)
   [![Ordic](https://img.shields.io/badge/-Orcid-green?style=flat-square&logo=Orcid&logoColor=white)](https://orcid.org/0009-0009-6695-4871)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://orcid.org/0009-0009-6695-4871)
-   ![](https://komarev.com/ghpvc/?username=DussanFreire&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=DussanFreire&color=blueviolet)
 
 </div>
 
