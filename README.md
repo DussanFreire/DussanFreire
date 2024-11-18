@@ -40,7 +40,7 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
 </p>
 
 #### I worked before with these technologies 👇
-#### Frontend
+- Frontend
 
 <p align="left">
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="40" height="40" alt="Angular" />
@@ -48,7 +48,7 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
 </p>
 
-#### Backend
+- Backend
 <p>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" />   
@@ -58,19 +58,19 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" width="40" height="40" alt=".NET" />
 </p>
 
-#### Mobile
+- Mobile
 <p>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" />
 </p>
 
-#### Data bases
+- Data bases
 <p>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
 </p>
 
 
-#### Other technologies 
+- Other technologies 
 <p>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="40" height="40" alt="Heroku" />
