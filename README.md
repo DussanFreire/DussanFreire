@@ -31,9 +31,6 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
 #### Frontend
 
 <p align="left">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/>
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
    <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="40" height="40" alt="React" />
    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width="40" height="40" alt="Nextjs" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
