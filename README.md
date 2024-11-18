@@ -28,17 +28,24 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
 
 ## Skills  ✅
 
-#### Frontend
+#### I am currently working with these technologies 💪
 
 <p align="left">
    <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" width="40" height="40" alt="React" />
    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width="40" height="40" alt="Nextjs" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
+   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40" height="40" alt="redux" />
+   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" height="40" alt="react query" />
+   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="auto" height="40" alt="supabase" />
+</p>
+
+#### I worked before with these technologies 👇
+#### Frontend
+
+<p align="left">
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="40" height="40" alt="Angular" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="auto" height="40" alt="tailwind css" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
-   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40" height="40" alt="redux" />
-   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" height="40" alt="react query" />
 </p>
 
 #### Backend
@@ -69,7 +76,6 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="40" height="40" alt="Heroku" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
-   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="auto" height="40" alt="supabase" />
 </p>
 
 
