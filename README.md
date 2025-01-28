@@ -35,8 +35,8 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width="40" height="40" alt="Nextjs" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40" height="40" alt="redux" />
-   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" height="40" alt="react query" />
-   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="auto" height="40" alt="supabase" />
+   <img src="https://github.com/user-attachments/assets/3890c889-b9b7-4afe-8faf-9480323671ed" width="40" height="40" alt="react query" />
+   <img src="https://github.com/user-attachments/assets/6e4b45ae-84fb-4d02-b899-04caf573d199" width="auto" height="40" alt="supabase" />
 </p>
 
 #### I worked before with these technologies 👇
@@ -57,6 +57,7 @@ Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="40" height="40" alt="NestJS" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" width="40" height="40" alt=".NET" />
 </p>
+
 
 - Mobile
 <p>
