@@ -19,9 +19,9 @@
 
 ## About me 😃
 
-I’m passionate about technology and love what I do 💻. I hold a Bachelor’s in Systems Engineering and a Master’s in Computer Science from the Bolivian Catholic University San Pablo 🎓. Currently, I’m working as a software developer, building dynamic and user-friendly web interfaces using React ⚛️.
+I’m someone who really likes technology and enjoys turning ideas into projects through code 💻. I currently work as a software developer, creating interactive and easy-to-use websites with React ⚛️. What I enjoy most is working with others, solving problems, and always learning 🚀.
 
-I’m a team player who communicates well, solves problems, and is always open to feedback 🤝. Eager to learn and grow in the ever-evolving tech industry.
+Outside of work, I love reading, exercising, and running 📚🏋️‍♂️🏃‍♂️. If you’re interested in connecting, collaborating, or sharing ideas, I’d be happy to hear from you!
 
 
 Check my [portfolio](https://portafolio-dussanfreire.vercel.app/) 🚀😃 
