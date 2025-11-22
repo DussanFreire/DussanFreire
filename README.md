@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/a3bee557-0d5f-4010-a036-aaac5048a349" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" alt="Foto de Perfil de Dussan Freire" />
+   <img src="https://github.com/user-attachments/assets/f43e3d90-bb58-4536-abb5-d9b4c34c4172" width="200px" height="200px" style="border-radius: 50%; border: 5px solid #000;" alt="Foto de Perfil de Dussan Freire" />
    <h1 align="center">Hello, I'm Dussan Freire 👋</h1>
    <h3 align="center">M.Sc. in Computer Science | Systems Engineer | Full Stack Developer</h3>
 </div>
