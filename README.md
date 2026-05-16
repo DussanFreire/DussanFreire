@@ -30,7 +30,7 @@ Outside of the professional sphere, I love reading, exercising, and running 📚
 
 <br>
 
-🌐 **Check out my Portfolio!** [portafolio-dussanfreire.vercel.app](https://portafolio-dussanfreire.vercel.app/)
+🌐 **Check out my Portfolio!** [portafolio-dussanfreire.vercel.app](https://dussanfreire.com/)
 
 ---
 
